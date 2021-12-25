@@ -21,7 +21,7 @@
     "lodash" "^4.17.19"
     "to-fast-properties" "^2.0.0"
 
-"@vitejs/plugin-vue@1.1.5":
+"@vitejs/plugin-vue@^1.1.5":
   "integrity" "sha512-4DV8VPYo8/OR1YsnK39QN16xhKENt2XvcmJxqfRtyz75kvbjBYh1zTSHLp7XsXqv4R2I+fOZlbEBvxosMYLcPA=="
   "resolved" "https://registry.npmjs.org/@vitejs/plugin-vue/-/plugin-vue-1.1.5.tgz"
   "version" "1.1.5"
@@ -45,7 +45,7 @@
     "@vue/compiler-core" "3.0.7"
     "@vue/shared" "3.0.7"
 
-"@vue/compiler-sfc@^3.0.6", "@vue/compiler-sfc@3.0.7":
+"@vue/compiler-sfc@^3.0.6", "@vue/compiler-sfc@^3.0.7":
   "integrity" "sha512-37/QILpGE+J3V+bP9Slg9e6xGqfk+MmS2Yj8ChR4fS0/qWUU/YoYHE0GPIzjmBdH0JVOOmJqunxowIXmqNiHng=="
   "resolved" "https://registry.npmjs.org/@vue/compiler-sfc/-/compiler-sfc-3.0.7.tgz"
   "version" "3.0.7"
